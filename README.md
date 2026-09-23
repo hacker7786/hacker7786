@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Ethical Hacking<br>🤝 I’m looking for help with Cr3cka<br>🌱 I’m currently learning of Cyber Security<br>💬 Ask me about Linux<br>⚡ Fun fact
-
+🧑‍💻 Cyber Security Analyst | Ethical Hacker
+⚡ Breaking systems to understand how to secure them
+🐧 Kali Linux • Web Security • OSINT • CTFs
+🔥 Building CR3CKA — Security, AI & Open Source
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Cr3cka786) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Himanhu jatav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gurjar_himanshu__47) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Himanshu_gautam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Cr3cka786) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cr3cka@cr3cka.site) 
